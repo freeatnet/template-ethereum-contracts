@@ -25,7 +25,7 @@
     "@types/mocha": "^9.0.0",
     "@types/node": "^16.3.2",
     "@typescript-eslint/eslint-plugin": "^4.29.1",
-    "@typescript-eslint/parser": "^4.28.4",
+    "@typescript-eslint/parser": "^4.29.1",
     "chai": "^4.3.0",
     "chai-ethers": "^0.0.1",
     "cross-env": "^7.0.2",
