@@ -5926,10 +5926,10 @@ prettier-linter-helpers@^1.0.0:
   dependencies:
     fast-diff "^1.1.2"
 
-prettier-plugin-solidity@^1.0.0-beta.14:
-  version "1.0.0-beta.14"
-  resolved "https://registry.yarnpkg.com/prettier-plugin-solidity/-/prettier-plugin-solidity-1.0.0-beta.14.tgz#9e6f15ba5fc8bf23ddf72a02aaec00352e49cbcc"
-  integrity sha512-hzEYYAY66NiOE5sfgJsVJa8uSk+v8eIK2/eGMi9unLxEkhtc0jgiB8LpBnQgHM13hRCkL/wIm8lnIYHeHUSJZA==
+prettier-plugin-solidity@^1.0.0-beta.17:
+  version "1.0.0-beta.17"
+  resolved "https://registry.yarnpkg.com/prettier-plugin-solidity/-/prettier-plugin-solidity-1.0.0-beta.17.tgz#fc0fe977202b6503763a338383efeceaa6c7661e"
+  integrity sha512-YFkxV/rHi1mphi17/XKcJ9QjZlb+L/J0yY2erix21BZfzPv2BN9dfmSRGr/poDp/FBOFSW+jteP2BCMe7HndVQ==
   dependencies:
     "@solidity-parser/parser" "^0.13.2"
     emoji-regex "^9.2.2"
